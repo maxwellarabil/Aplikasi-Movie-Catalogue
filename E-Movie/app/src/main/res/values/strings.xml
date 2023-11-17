@@ -1,0 +1,233 @@
+<resources>
+    <string name="app_name">E-Movie</string>
+    <string name="name_movie">Nama Film</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="produser">isi1</string>
+    <string name="tittle">Produser</string>
+    <string name="tittle2">Sutradara</string>
+    <string name="sutradara">isi2</string>
+    <string name="tittle3">Penulis</string>
+    <string name="penulis">isi3</string>
+    <string name="tittle4">Distribusi</string>
+    <string name="distribusi">isi4</string>
+    <string name="tayang">tayang</string>
+    <string name="tittle5">Pemeran</string>
+    <string name="pemeran">isi5</string>
+    <string name="tittle6">Sinopsis</string>
+    <string name="Detail">Detail</string>
+    <string name="plaza_andalas_xxi">PLAZA ANDALAS XXI</string>
+    <string name="pemesanan">Pemesanan</string>
+    <string name="film">Film</string>
+    <string name="tanggal">tanggal</string>
+    <string name="harga">harga</string>
+
+    <string-array name="data_name">
+        <item>4 MANTAN</item>
+        <item>A SCORE TO SETTLE</item>
+        <item>AKU TAHU KAPAN KAMU MATI</item>
+        <item>BRAHMS: THE BOY II</item>
+        <item>BUKU HARIANKU</item>
+        <item>KILLERMAN</item>
+        <item>KKN DI DESA PENARI</item>
+        <item>LINE OF DUTY</item>
+        <item>MARIPOSA</item>
+        <item>MEKAH IM COMING</item>
+        <item>MY SPY</item>
+        <item>RICHARD JEWELL</item>
+    </string-array>
+
+    <string-array name="data_sinopsis">
+        <item>SARA, AIRIN, RACHEL dan AMARA adalah 4 gadis yang punya latar belakang berbeda-beda, suatu ketika keempat perempuan ini tanpa sengaja dipertemukan oleh satu kejadian, berita kematian mantan pacar mereka, ALEX. Mereka pun bertemu dalam suasana duka yang cukup canggung awalnya, namun ada kejadian mengejutkan, ternyata Alex sebelum meninggal meninggalkan surat untuk mereka masing-masing dan mengatakan kalau mereka menerima surat itu setelah Alex meninggal, maka salah satu pembunuh ada diantara mereka! Siapakah pembunuh Alex sebenarnya?</item>
+        <item>Frank Carver (Nicolas Cage) adalah mantan gangster yang berusaha membalas dendam kepada kelompoknya. Ia dipenjara 19 tahun akibat menanggung dosa yang tidak ia perbuat.Walau telah mendapatkan uang banyak dari hasil tutup mulut, Frank tetap mendatangi satu per satu kelompoknya untuk membalas dendam dan menyamakan skor.</item>
+        <item>Setelah mati suri, SIENA bisa melihat pertanda orang akan mati. SIENA ketakutan dan ingin keluar dari situasi yang mengerikan ini. FLO, NENI dan VINA sahabat SIENA tidak percaya dengan kemampuan yang tiba di miliki oleh SIENA.Tapi SIENA terus meyakinkan dengan penglihatannya. Apalagi satu persatu orang di sekitarnya mati setelah SIENA melihat pertanda dengan munculnya arwah yang menjemput orang tersebut. Hingga akhirnya pertanda tersebut muncul di dekat BRAMA, kakak kelas yang di cintainya. SIENA berusaha menggagalkan kematian BRAMA yang akan menjemputnya. Ternyata bukan hanya BRAMA. SIENA juga melihat pertanda orang terdekatnya akan mati.SIENA berusaha menggagalkan kematian itu. Hingga pertanda kematian itu sendiri datang mengancam dirinya.</item>
+        <item>Sebuah keluarga muda memutuskan pindah untuk memulai hidup baru. Namun di rumah baru tersebut, Liza (Katie Holmes) mendapati anaknya, Jude (Christopher Convery) berteman dengan boneka yang sangat mirip dengan manusia yang diberi nama Brahms.Satu per satu teror datang pasca Brahms berada di rumah mereka. Liza yang curiga mulai mencari tahu asal-usul boneka misterius tersebut.</item>
+        <item>KILA (Kila Putri Alam) adalah anak yang selalu mencurahkan isi hatinya di buku hariannya. Setelah mamanya, RISKA (Widi Mulia), mengganti rencana liburan mereka, Kila kemudian dititipkan ke kakeknya, PRAPTO (Slamet Rahardjo). Kakek Prapto adalah ayah dari papa Kila, ARYA (Dwi Sasono), yang tinggal di Sukabumi. Di sana, Kila bertemu lagi dengan teman lamanya, RINTIK (Widuri Puteri), seorang penyandang disabilitas. Kedua anak yang begitu berbeda ini pun terlibat dalam sebuah petualangan yang tak terduga.</item>
+        <item>Moe (Liam Hemsworth) adalah seorang pencuci uang yang melakukan bisnisnya di New York. Pada suatu hari, ia terbangun tanpa mengingat apapun dengan uang berjumlah jutaan dollar dan obat-obatan terlarang di sisinya. Bingung dengan kondisinya, Moe mencoba mencari jawaban sambil bertahan hidup dari beragam pihak yang berusaha memburunya.</item>
+        <item>Seorang laki-laki yang dikenal dengan sebutan Simpleman, mendapatkan sebuah kisah menyeramkan. Berawal dari 5 mahasiswa yang harus melaksanakan KKN di sebuah desa terpencil, Nur (Tissa Biani), Widya ( Adinda Thomas), Ayu (Aghniny Haque), Bima (Achmad Megantara), Anton (Calvin Jeremy) dan Wahyu ( M. Fajar Nugraga) tidak pernah menyangka kalau desa yang mereka pilih ternyata bukanlah desa biasa. Pak Prabu (Kiki Narendra)sang kepala desa memperingatkan mereka untuk tidak melewati batas gapura terlarang, sebuah gapura yang menuju tapak tilas. Tempat misterius itu mungkin ada hubungannya dengan sosok penari cantik yang mulai menganggu Nur dan juga Widya. Satu persatu mulai merasakan keanehan desa tersebut. Bima pun mulai berubah sikap. Proker KKN mereka berantakan, tampaknya penghuni ghaib desa tersebut tidak menyukai mereka. Nur akhirnya menemukan fakta mencengangkan bahwa salah satu dari mereka melanggar aturan yang paling fatal di desa tersebut. Teror sosok penari misterius semakin menyeramkan, mereka mencoba meminta bantuan Mbah Buyut (Diding Boneng) dukun setempat, namun sudah terlambat, mereka terancam tidak akan bisa pulang dengan selamat dari desa yang dikenal dengan sebutan desa penari itu.</item>
+        <item>Frank Penny (Aaron Eckhart) adalah seorang polisi yang disalahkan atas sebuah kasus. Ia harus berpacu dengan waktu untuk menemukan korban penculikan yang penculiknya ia bunuh secara tidak sengaja.</item>
+        <item>Mariposa (Kupu-kupu) seperti kamu, aku mengejar tapi kamu menghindar. Begitulah gambaran sosok IQBAL GUANNA bagi NATASHA KAY LOOVY atau ACHA. Acha bertekad ingin mendapatkan hati Iqbal, seorang cowok cakep, pintar dan dikenal berhati dingin. Sahabat Acha, AMANDA, berusaha mencegah niat Acha untuk mendekati Iqbal. Amanda takut Acha akan terluka dan sakit hati.Sekali pun lugu dan polos, tekad Acha sangat kuat. Acha mendekati Iqbal dengan berbagai cara. Acha yakin, jika pun hati Iqbal sekeras batu, Acha adalah air yang menetesinya setiap waktu, hingga batu itu akan pecah dan menerima dirinya.</item>
+        <item>Hubungan Eddy (Rizky Nazar) dan Eni (Michelle Ziudith) terancam kandas, lantaran Eni akan dijodohkan dengan saudagar kaya bernama Pietoyo (Dwi Sasono). Berkat saran dari Ibunya (Ria Irawan), Eddy berhasil merayu orang tua Eni, Pak Soleh (Totos Rasiti) dengan mengatakan akan berangkat Haji Tahun ini. Faktanya, untuk mendapatkan kuota visa Haji resmi, Eddy diharuskan mengantri selama 10tahun. Saat Eddy galau setengah mati, hidayah datang menghampiri. Eddy tertarik mengambil jalur kilat dari Agen Travel Haji yang sangat menjanjikan, dan dengan percaya diri Ia menjual bengkel turun-temurun tempat ia mengais rejeki. Seluruh desa bersuka cita melepas kepergian Eddy berangkat ke tanah suci. Sesampainya di Jakarta untuk transit, Eddy baru menyadari ternyata Ia ditipu Agen Travel Haji abal-abal. Dalam kebimbangannya, Eddy harus menyembunyikan hal ini dari siapapun, lalu pura-pura naik Haji. Eddy menunggu waktu yang tepat untuk pulang kampung, agar terlihat seperti benar-benar naik haji dan bisa segera menikahi Eni.</item>
+        <item>JJ (Dave Bautista) adalah seorang agen CIA yang sangat hebat. Namun dibalik kesangarannya JJ adalah pribadi yang baik. Hal ini terjadi saat ia harus bekerjasama dengan Sophie (Chloe Coleman), gadis cantik berusia 9 tahun. Keduanya akan menjadi tim dan memecahkan kasus sulit.</item>
+        <item>Richard Jewell (Paul Walter Hauser) adalah petugas keamanan yang menjadi pahlawan nasional AS saat ia berhasil menyelamatkan ribuan nyawa dari bom yang akan meledak di perhelatan Olimpiade 1996 Atanta. Namun ia dicurigai oleh media dan pemerintah AS sebagai salah satu teroris yang meletakkan bom tersebut.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/mantan</item>
+        <item>@drawable/a_score_to_settle</item>
+        <item>@drawable/aku_tahu_kapan_kamu_mati</item>
+        <item>@drawable/brahms</item>
+        <item>@drawable/buku_harianku</item>
+        <item>@drawable/killerman</item>
+        <item>@drawable/kkn_di_desa_penari</item>
+        <item>@drawable/line_of_duty</item>
+        <item>@drawable/mariposa</item>
+        <item>@drawable/mekah_im_coming</item>
+        <item>@drawable/my_spy</item>
+        <item>@drawable/richard_jewell</item>
+    </string-array>
+
+    <string-array name="data_picture">
+        <item>@drawable/mantan</item>
+        <item>@drawable/a_score_to_settle</item>
+        <item>@drawable/aku_tahu_kapan_kamu_mati</item>
+        <item>@drawable/brahms</item>
+        <item>@drawable/buku_harianku</item>
+        <item>@drawable/killerman</item>
+        <item>@drawable/kkn_di_desa_penari</item>
+        <item>@drawable/line_of_duty</item>
+        <item>@drawable/mariposa</item>
+        <item>@drawable/mekah_im_coming</item>
+        <item>@drawable/my_spy</item>
+        <item>@drawable/richard_jewell</item>
+    </string-array>
+
+    <string-array name="data_produser">
+        <item>Fransen Susanto, Raffi Ahmad</item>
+        <item>Kevin DeWalt, Eric Gozlan, Danielle Masters</item>
+        <item>Oswin Bonifanz, Yoen K</item>
+        <item>Matt Berenson, Roy Lee, Gary Lucchesi</item>
+        <item>Bobby Bossa, Silvia Yunita</item>
+        <item>Mary Aloe, Craig Chapman, Myles Nestel</item>
+        <item>Manoj Punjabi</item>
+        <item>Craig Chapman, Scott LaStaiti, Myles Nestel</item>
+        <item>Frederica, Chand Parwez Servia</item>
+        <item>Hanung Bramantyo</item>
+        <item>Dave Bautista, Chris Bender</item>
+        <item>Clint Eastwood, Jennifer Davisson, Jessica Meier, Jonah Hill, Kevin Misher, Leonardo DiCaprio, Tim M</item>
+    </string-array>
+
+    <string-array name="data_sutradara">
+        <item>Hanny Saputra</item>
+        <item>Shawn Ku</item>
+        <item>Hadrah Daeng Ratu</item>
+        <item>William Brent Bell</item>
+        <item>Angling Sagaran</item>
+        <item>Malik Bader</item>
+        <item>Awi Suryadi</item>
+        <item>Steven C. Miller</item>
+        <item>Fajar Bustomi</item>
+        <item>Jeihan Angga</item>
+        <item>Peter Segal</item>
+        <item>Clint Eastwood</item>
+    </string-array>
+
+    <string-array name="data_penulis">
+        <item>Demas Garin, Talitha Tan</item>
+        <item>John Stuart Newman</item>
+        <item>Arumi E</item>
+        <item>Stacey Menear</item>
+        <item>Alim Sudio</item>
+        <item>Malik Bader</item>
+        <item>Lele Laila, Gerald Mamahit</item>
+        <item>Jeremy Drysdale</item>
+        <item>Alim Sudio</item>
+        <item>Jeihan Angga</item>
+        <item>Erich Hoeber, Jon Hoeber</item>
+        <item>Billy Ray</item>
+    </string-array>
+
+    <string-array name="data_distribusi">
+        <item>Ra Pictures</item>
+        <item>Goldrush Entertainment, Minds Eye Entertainment</item>
+        <item>Unlimited Production</item>
+        <item>Huayi Brothers, Lakeshore Entertainment, Stx Enter</item>
+        <item>Bro\'s Studio, Bluesheep Entertainment</item>
+        <item>Solution Entertainment Group</item>
+        <item>Md Pictures, Pic House Films</item>
+        <item>Solution Entertainment Group</item>
+        <item>Falcon Pictures, Starvision</item>
+        <item>Md Pictures, Dapur Film</item>
+        <item>Mwm Studios, Stx Entertainment</item>
+        <item>Warner Bros, Pictures</item>
+    </string-array>
+
+    <string-array name="data_tayang">
+        <item>20 Feb\n2020</item>
+        <item>08 Feb\n2020</item>
+        <item>05 Mar\n2020</item>
+        <item>19 Feb\n2020</item>
+        <item>12 Mar\n2020</item>
+        <item>16 Feb\n2020</item>
+        <item>19 Mar\n2020</item>
+        <item>16 Feb\n2020</item>
+        <item>12 Mar\n2020</item>
+        <item>05 Mar\n2020</item>
+        <item>09 Mar\n2020</item>
+        <item>19 Feb\n2020</item>
+    </string-array>
+
+    <string-array name="data_durasi">
+        <item>80\nMenit</item>
+        <item>103\nMenit</item>
+        <item>92\nMenit</item>
+        <item>120\nMenit</item>
+        <item>72\nMenit</item>
+        <item>112\nMenit</item>
+        <item>90\nMenit</item>
+        <item>98\nMenit</item>
+        <item>93\nMenit</item>
+        <item>93\nMenit</item>
+        <item>102\nMenit</item>
+        <item>131\nMenit</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>@drawable/dektektif</item>
+        <item>@drawable/aksi</item>
+        <item>@drawable/horor</item>
+        <item>@drawable/horor</item>
+        <item>@drawable/family</item>
+        <item>@drawable/aksi</item>
+        <item>@drawable/horor</item>
+        <item>@drawable/aksi</item>
+        <item>@drawable/drama</item>
+        <item>@drawable/comedy</item>
+        <item>@drawable/aksi</item>
+        <item>@drawable/biography</item>
+    </string-array>
+
+    <string-array name="data_keterangan">
+        <item>Dektektif</item>
+        <item>Aksi</item>
+        <item>Horor</item>
+        <item>Horor</item>
+        <item>Family</item>
+        <item>Aksi</item>
+        <item>Horor</item>
+        <item>Aksi</item>
+        <item>Drama</item>
+        <item>Comedy</item>
+        <item>Aksi</item>
+        <item>Biography</item>
+    </string-array>
+
+    <string-array name="data_pemeran">
+        <item>Ranty Maria, Jeff Smith, Denira Wiraguna, Melayu Nicole, Melanie Berentz, Gary Iskak, Wani Siregar, Akja Dethan, Cinta Brian Roberts, Delano Daniel, Denny Weller, Mario Wiericx, Ayu Diah Pasha</item>
+        <item>Nicolas Cage, Benjamin Bratt, Noah Le Gros, Mohamed Karim, Karolina Wydra, Ian Tracey</item>
+        <item>Natasha Wilona, Ria Ricis, Al Ghazali, Fitria Rasyidi, Sonia Alexa, Ryma Gembala, Rita Nurmaliza, Elizabeth Christine, Adinda Halona, Opie Kumis, Asri Welas, Catherine Wilson, Daus Separo</item>
+        <item>Katie Holmes, Owain Yeoman, Ralph Ineson, Christopher Convery, Anjali Jay, Oliver Rice, Natalie Moon, Joely Collins, Charles Jarman, Joanne Kimm, Ellie King</item>
+        <item>Kila Putri Alam, Widuri Puteri, Slamet Rahardjo, Widi Mulia, Dwi Sasono, Ence Bagus, Gary Iskak, Wina Marrino, Bacun Hakim, Astanur Cahya, Tizza Radia, Fairel K.r., Daffa R.p., Kayyisah Z. R., Samanta</item>
+        <item>Liam Hemsworth, Emory Cohen, Diane Guerrero, Zlatko Buric, Suraj Sharma, Nickola Shreli, Mike Moh, John Cenatiempo, Souleymane Sy Savane, Stivi Paskoski</item>
+        <item>Tissa Biani, Adinda Thomas, Achmad Megantara, Aghniny Haque, Calvin Jeremy, M Fajar Nugraha, Kiki Narendra, Aulia Sarah, Aty Cancer, Diding Boneng, Dewi Sri, Andri Mashadi Trinugraha</item>
+        <item>Aaron Eckhart, Courtney Eaton, Dina Meyer, Giancarlo Esposito, Ben Mckenzie, Jessica Lu, Lindsey Garrett, David Shae, Betsy Landin</item>
+        <item>Angga Yunanda, Adhisty Zara, Abun Sungkar, Dannia Salsabilla, Junior Roberts, Syakir Daulay</item>
+        <item>Rizky Nazar, Michelle Ziudith, Jennifer Coppen, Totas Rasita, Ephy Sekuriti, Ria Irawan, Dwi Sasono, Rasyid Karim, Fenny Fadillah, Cici Tegal, Yusril Fahriza, Ananta Rispo, Yatipesek, Elly Sugigi</item>
+        <item>Dave Bautista, Kristen Schaal, Parisa Fitz-henley, Chloe Coleman, Keller Viaene, Devere Rogers, Ken Jeong</item>
+        <item>Paul Walter Hauser, Sam Rockwell, Kathy Bates, Jon Hamm, Olivia Wilde, Ian Gomez</item>
+    </string-array>
+
+    <string-array name="data_link">
+        <item>https://web3.21cineplex.com/movie-trailer/104MAN.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/18STSE.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/10ATKK.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/19BII..mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/10BHAU.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/17KILM.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/10KDDP.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/18LIVE.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/10MARA.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/10MICG.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/18MSPY.mp4</item>
+        <item>https://web3.21cineplex.com/movie-trailer/20RJEL.mp4</item>
+    </string-array>
+</resources>
